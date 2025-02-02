@@ -3,7 +3,7 @@
   <br>
   <img src="https://github.com/liuchuancong/pure_live/blob/master/assets/icons/icon.png" width="150"/>
   <br>
-  纯粹直播
+  聚合直播
   <br>
 </h1>
 <h4 align="center">第三方直播播放器</h4>
@@ -34,13 +34,8 @@
 ## 下载
 
 请使用 123云盘 进行下载
-下载地址 [纯粹直播](https://www.123pan.com/s/Jucxjv-NwYYd.html)
+下载地址 [聚合直播](https://www.123pan.com/s/Jucxjv-NwYYd.html)
 
-蓝奏云已不在维护
-
-下载地址 [纯粹直播](https://wwvr.lanzouw.com/b01f6rqab)
-
-密码 **40l9** (英文小写**L**不是数字**1**)
 
 注意：在windows第一次安装时请审查安装说明`readme.txt`以及`keyboard.txt`文件，如安装失败则代表不支持该系统，请升级win11后重试，后续更新仅需下载版本包即可，采用非强制更新，更新提示可以在设置中关闭.
 
