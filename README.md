@@ -3,7 +3,7 @@
   <br>
   <img src="https://github.com/liuchuancong/pure_live/blob/master/assets/icons/icon.png" width="150"/>
   <br>
-  纯粹直播
+  聚合直播
   <br>
 </h1>
 <h4 align="center">第三方直播播放器</h4>
